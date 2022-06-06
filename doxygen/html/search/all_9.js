@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['ibookdal_105',['IBookDal',['../interface_data_access_1_1_abstract_1_1_i_book_dal.html',1,'DataAccess::Abstract']]],
+  ['ibookdal_2ecs_106',['IBookDal.cs',['../_i_book_dal_8cs.html',1,'']]],
+  ['id_107',['Id',['../class_book___store_1_1_dashboard.html#abc3866e1e8493cd36886053d22b08b72',1,'Book_Store.Dashboard.Id()'],['../class_entities_1_1_concrete_1_1_item_to_purchase.html#a0c82afbded743d1215cf8a61490f7415',1,'Entities.Concrete.ItemToPurchase.Id()'],['../class_entities_1_1_concrete_1_1_order.html#a4404776e7ee23771652c74392e316702',1,'Entities.Concrete.Order.Id()'],['../class_entities_1_1_abstract_1_1_product.html#a3999274e7f0a98dcd0226238add0c985',1,'Entities.Abstract.Product.Id()']]],
+  ['imagazinedal_108',['IMagazineDal',['../interface_data_access_1_1_abstract_1_1_i_magazine_dal.html',1,'DataAccess::Abstract']]],
+  ['imagazinedal_2ecs_109',['IMagazineDal.cs',['../_i_magazine_dal_8cs.html',1,'']]],
+  ['imusiccddal_110',['IMusicCDDal',['../interface_data_access_1_1_abstract_1_1_i_music_c_d_dal.html',1,'DataAccess::Abstract']]],
+  ['imusiccddal_2ecs_111',['IMusicCDDal.cs',['../_i_music_c_d_dal_8cs.html',1,'']]],
+  ['initializecomponent_112',['InitializeComponent',['../class_book___store_1_1_book_design.html#a1d041d327c33953b70489703fee3f892',1,'Book_Store.BookDesign.InitializeComponent()'],['../class_book___store_1_1_c_ds_design.html#af94bee0c8ae07a83d13cafde84864cc9',1,'Book_Store.CDsDesign.InitializeComponent()'],['../class_book___store_1_1_dashboard.html#ae4aa31f30bd851ce3a1455f734375ac9',1,'Book_Store.Dashboard.InitializeComponent()'],['../class_book___store_1_1_login.html#a19b1bb40f07533e2e39f2b2b4aca652f',1,'Book_Store.Login.InitializeComponent()'],['../class_book___store_1_1_magazine_design.html#a05c54d8c05f85e500cdfae1cf80500c3',1,'Book_Store.MagazineDesign.InitializeComponent()']]],
+  ['iorderdal_113',['IOrderDal',['../interface_data_access_1_1_abstract_1_1_i_order_dal.html',1,'DataAccess::Abstract']]],
+  ['iorderdal_2ecs_114',['IOrderDal.cs',['../_i_order_dal_8cs.html',1,'']]],
+  ['isbn_115',['ISBN',['../class_entities_1_1_concrete_1_1_book.html#aa00ee62e4ecbee14b1f5ff0fdb1c7d44',1,'Entities::Concrete::Book']]],
+  ['ishoppingcartdal_116',['IShoppingCartDal',['../interface_data_access_1_1_abstract_1_1_i_shopping_cart_dal.html',1,'DataAccess::Abstract']]],
+  ['ishoppingcartdal_2ecs_117',['IShoppingCartDal.cs',['../_i_shopping_cart_dal_8cs.html',1,'']]],
+  ['issue_118',['Issue',['../class_entities_1_1_concrete_1_1_magazine.html#a32428845711371e76b035b1c4af7e273',1,'Entities::Concrete::Magazine']]],
+  ['itemstopurchase_119',['ItemsToPurchase',['../class_business_1_1_concrete_1_1_shopping_cart.html#a7a2424e3a9058e0714189f891eda42d1',1,'Business::Concrete::ShoppingCart']]],
+  ['itemtopurchase_120',['ItemToPurchase',['../class_entities_1_1_concrete_1_1_item_to_purchase.html',1,'Entities::Concrete']]],
+  ['itemtopurchase_2ecs_121',['ItemToPurchase.cs',['../_item_to_purchase_8cs.html',1,'']]]
+];

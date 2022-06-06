@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['label3_400',['label3',['../class_book___store_1_1_dashboard.html#a2d2bd1e3e2611a97fbeba54890af72b5',1,'Book_Store::Dashboard']]],
+  ['lblauthor_401',['lblAuthor',['../class_book___store_1_1_book_design.html#a4e90158949bab34b0aa5955d2627d3ab',1,'Book_Store::BookDesign']]],
+  ['lblbookname_402',['lblBookName',['../class_book___store_1_1_book_design.html#a6f403af90b66140cc5e6ab6aff925715',1,'Book_Store::BookDesign']]],
+  ['lblcdname_403',['lblCDName',['../class_book___store_1_1_c_ds_design.html#aacbfa5eb0e7f8f4f55b39020bffea4c7',1,'Book_Store::CDsDesign']]],
+  ['lblemail_404',['lblEmail',['../class_book___store_1_1_login.html#abe6e7ee540611934b7fcdc2870ee58bd',1,'Book_Store::Login']]],
+  ['lbliscardempty_405',['lblIsCardEmpty',['../class_book___store_1_1_dashboard.html#a1228d535492163e881e764479e4b3987',1,'Book_Store::Dashboard']]],
+  ['lblisordersempty_406',['lblisOrdersEmpty',['../class_book___store_1_1_dashboard.html#ab2e50007b4f89118f235dec6b8862d38',1,'Book_Store::Dashboard']]],
+  ['lblissue_407',['lblIssue',['../class_book___store_1_1_magazine_design.html#af7c32d6c9f6957ce7020f53f86e16f82',1,'Book_Store::MagazineDesign']]],
+  ['lblloginstatus_408',['lblLoginStatus',['../class_book___store_1_1_login.html#a913c236822753889c4d71e0198b30670',1,'Book_Store::Login']]],
+  ['lbllogintoyouraccount_409',['lblLoginToYourAccount',['../class_book___store_1_1_login.html#a6ccc03f6c848492fc34f034e9ac51099',1,'Book_Store::Login']]],
+  ['lblname_410',['lblName',['../class_book___store_1_1_dashboard.html#a47abf0d2f3d8247b1b0e7dae0fbd7acf',1,'Book_Store.Dashboard.lblName()'],['../class_book___store_1_1_magazine_design.html#a01eee5af6e1fce6fc07686121084d825',1,'Book_Store.MagazineDesign.lblName()']]],
+  ['lblordersuccessed_411',['lblOrderSuccessed',['../class_book___store_1_1_dashboard.html#a32f0abd2e6b86a071ae10360581a8679',1,'Book_Store::Dashboard']]],
+  ['lblpage_412',['lblPage',['../class_book___store_1_1_book_design.html#ad98b7f7dcf9618404f28325308b5590f',1,'Book_Store::BookDesign']]],
+  ['lblpassword_413',['lblPassword',['../class_book___store_1_1_login.html#ae10be713f50f10f18843d48f07e04e77',1,'Book_Store::Login']]],
+  ['lblprice_414',['lblPrice',['../class_book___store_1_1_book_design.html#a69c0bbe42cb703230c3570fb0f49dffa',1,'Book_Store.BookDesign.lblPrice()'],['../class_book___store_1_1_c_ds_design.html#a27cea2c5e25a05f8b845ced8a2df3617',1,'Book_Store.CDsDesign.lblPrice()'],['../class_book___store_1_1_magazine_design.html#a67899ea43240d20b90cbb6dbaaf94b52',1,'Book_Store.MagazineDesign.lblPrice()']]],
+  ['lblpublisher_415',['lblPublisher',['../class_book___store_1_1_book_design.html#a0844857d6adb064aaee6b8ac6c1a4265',1,'Book_Store.BookDesign.lblPublisher()'],['../class_book___store_1_1_magazine_design.html#ac0c0f162de7bd85f7ff5ee76d96c0419',1,'Book_Store.MagazineDesign.lblPublisher()']]],
+  ['lblsinger_416',['lblSinger',['../class_book___store_1_1_c_ds_design.html#a46d3ccc0c27c906a7bd645848ff89598',1,'Book_Store::CDsDesign']]],
+  ['lbltotal_417',['lblTotal',['../class_book___store_1_1_dashboard.html#a2c93a0e5d17b18b197b0843448e40c2c',1,'Book_Store::Dashboard']]],
+  ['lbltype_418',['lblType',['../class_book___store_1_1_c_ds_design.html#aa280a9755044d4ce439299dbc55710d4',1,'Book_Store::CDsDesign']]],
+  ['localzone_419',['localZone',['../class_book___store_1_1_logging_class.html#ad0cc0acd5046ef13ebb0f3e062a98c32',1,'Book_Store::LoggingClass']]],
+  ['log_420',['Log',['../class_book___store_1_1_logging_class.html#ab0760b8eb2d7f7a6485ebf10e3ecddbe',1,'Book_Store::LoggingClass']]]
+];
