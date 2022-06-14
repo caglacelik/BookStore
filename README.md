@@ -1,3 +1,2 @@
 # BookStore
-Object Oriented Class Project
-#MSSQL #SingletonPattern 
+Object Oriented Class Project with MSSQL and SingletonPattern 
